@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi, I'm Dryad
 
-<!--
-**DryadOak/DryadOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a UK-based web designer and WordPress specialist focused on building clean, professional websites for service-based businesses. I also help clients grow online through SEO and digital marketing strategies.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Website Design & Development**  
+  Crafting modern, user-friendly websites that look great and work flawlessly across devices.
+
+- 🛠️ **WordPress Specialist**  
+  Custom themes, troubleshooting, site maintenance, and performance optimization.
+
+- 📈 **SEO & Digital Marketing**  
+  Helping businesses improve their visibility in search engines and connect with their ideal audience.
+
+## 📍 About Me
+
+I run **Oak Web & Marketing**, based near Exeter, Devon, and work with clients across the UK. Whether you need a simple online presence or a site built for growth, I'm here to help.
+
+## 🧰 Tech Stack
+
+- HTML / CSS / JS
+- WordPress / PHP
+- Elementor
+- SiteGround
+- Google Analytics / Search Console
+
+## 📫 Let's Connect
+
+- 🌿 [oakwebmarketing.co.uk](https://oakwebmarketing.co.uk)
